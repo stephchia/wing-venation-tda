@@ -1,6 +1,5 @@
 # Topological Data Analysis of Insect Wing Venation
-This repository contains the code and example data used in the analysis described in the HackMD post:
-https://hackmd.io/@sychamore/HkFdLP1Sxx
+This repository contains the code and example data used in the analysis described in [this post](https://stephchia.github.io/blog/2025/wing-venation-tda/)
 
 The project demonstrates how to:
 - Extract point clouds from insect wing images
